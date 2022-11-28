@@ -1,5 +1,5 @@
 {
-  "name": "react-native-html-to-pdf",
+  "name": "react-native-html-to-pdf-aiway",
   "version": "0.8.0",
   "scripts": {
     "start": "node_modules/react-native/packager/packager.sh"
@@ -7,7 +7,7 @@
   "description": "Convert html strings to PDF documents using React Native",
   "repository": {
     "type": "git",
-    "url": "github:christopherdro/react-native-html-to-pdf"
+    "url": "git+https://github.com/shijianmei/React-native-html-to-pdf-aiway.git"
   },
   "keywords": [
     "html",
